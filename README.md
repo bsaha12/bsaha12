@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 <hr/>
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,github,postman,html,js,css,mongodb,node.js,express.js&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,CSS,js,node.js,express.js,MongoDB,MySQL,redis,github,postman&theme=light)](https://skillicons.dev)
