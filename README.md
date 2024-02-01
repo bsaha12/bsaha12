@@ -20,4 +20,4 @@
 
 <hr/>
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,github,postman,html,js,css,mongodb,node.js,express.js&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,bootstrap,js,nodejs,expressjs,mongodb,mysql,redis,github,git,postman,netlify,vercel&theme=light)](https://skillicons.dev)
