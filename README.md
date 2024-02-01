@@ -6,6 +6,12 @@
 
 - 📫 How to reach me *bhaskar12jan678@gmail.com* -->
 
+#### 👨‍💻ABOUT ME:
+
+<h4 align="center">
+I'm a Node Js Developer skiled in Backend Development. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms 💡..</h4>
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left">
@@ -29,4 +35,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=bsaha12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=bsaha12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
