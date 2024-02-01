@@ -16,8 +16,17 @@
 </p>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+# 💻 Languages and Tools:
 
 <hr/>
 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,bootstrap,js,nodejs,expressjs,mongodb,mysql,redis,github,git,postman,netlify,vercel&theme=light)](https://skillicons.dev)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=bsaha12&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bsaha12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=bsaha12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bsaha12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
