@@ -5,6 +5,8 @@
 - 💬 Ask me about *JavaScript & Node.js*
 
 - 📫 How to reach me *bhaskar12jan678@gmail.com* -->
+<img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="500">
+<br><br>
 
 <h3 align="left">About me:</h3>
 
